@@ -1,0 +1,5 @@
+SimpleITK
+nibabel
+tqdm
+pandas
+matplotlib
