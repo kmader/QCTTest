@@ -1,0 +1,4 @@
+mkdir ct_scans
+cd ct_scans
+aria2c -x5 -i ../dl_files.txt 
+cd ..
